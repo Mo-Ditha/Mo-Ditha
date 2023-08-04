@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/vPdHRQC/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif)
+
 
 <h1 align="center">Hi 😎, I'm Moditha Dissanayaka</h1>
 <h3 align="center">I am an organized, efficient and hardworking person who likes to discover and accept new ideas that can be implemented effectively. I can work well in a team and I like to set goals that I can achieve . I am a focused and determined person who can work quickly and efficiently, either alone or as part of a team, so I always plan to ensure I manage my time well and provide the best possible service.</h3>
