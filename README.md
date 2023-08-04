@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moditha Dissanayaka</h1>
+<h1 align="center">Hi 😎, I'm Moditha Dissanayaka</h1>
 <h3 align="center">I am an organized, efficient and hardworking person who likes to discover and accept new ideas that can be implemented effectively. I can work well in a team and I like to set goals that I can achieve . I am a focused and determined person who can work quickly and efficiently, either alone or as part of a team, so I always plan to ensure I manage my time well and provide the best possible service.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-ditha&label=Profile%20views&color=0e75b6&style=flat" alt="mo-ditha" /> </p>
