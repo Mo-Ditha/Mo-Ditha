@@ -43,7 +43,7 @@
 <br><br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 	
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
 
 <br>
 <p>
@@ -51,37 +51,8 @@
 <br><br>
 <h3>🧰 Frameworks and Libraries</h3>
 
+![My Skills](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,numpy,pandas,ruby,spring,laravel,symfony,)
 <br>
-
-<p>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1280px-JQuery_logo.svg.png" alt="jQuery" width="30" height="30"/> </a> 
-<a href="https://lodash.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lodash/lodash/4.17.15/doc/lodash.svg" alt="lodash" width="40" height="40"/> </a> 
-<a href="https://momentjs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4129662?s=200&v=4" alt="momentjs" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logos/numpy.svg" alt="" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="" width="40" height="40"/> </a>
-<a href="https://docs.python-requests.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://spring.io/images/spring-initial.svg" alt="" width="40" height="40"/> </a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-<a href="https://commons.apache.org/" target="_blank" rel="noreferrer"> <img src="https://commons.apache.org/images/commons-logo.png" alt="" width="40" height="40"/> </a> 
-<a href="https://github.com/google/guava" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://rubyonrails.org/images/rails-logo.svg" alt="" width="40" height="40"/</a>
-<a href="https://guides.rubyonrails.org/active_record_basics.html" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
-<a href="https://github.com/heartcombo/devise" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="" width="40" height="40"/> </a> 
-<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="" width="40" height="40"/> </a>
-<a href="https://phpunit.de/" target="_blank" rel="noreferrer"> <img src="https://phpunit.de/img/phpunit.png" alt="" width="40" height="40"/> </a> 
-<a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
-</p>
-
-<br><br>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
