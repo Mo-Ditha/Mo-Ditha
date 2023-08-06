@@ -42,46 +42,27 @@
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
-	
+
 ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
 
 <br>
 
 <h3>🧰 Frameworks and Libraries</h3>
 
-![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,ruby,spring,laravel,symfony,express,atom)
+![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,ruby,spring,laravel,symfony,express,atom,nestjs,nextjs,hibernate)
 <br>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
+![My db](https://skillicons.dev/icons?i=azure,github,mongodb,mysql,gcp)
+
 <br>
-
-<p>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/800px-Microsoft_Azure_Logo.svg.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
-
-</p>
-
-<br><br>
 <h3>💻 Software and Tools</h3>
 
+![My st](https://skillicons.dev/icons?i=androidstudio,discord,eclipse,figma,firebase,git,gitlab,idea,matlab,linkedin,instagram,twitter,vscode,visualstudio)
 <br>
-<p>
-
-		
-</p>
-
 </details>
 
-
-	
-
-</details>
-
-
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&show_icons=true&locale=en&layout=compact" alt="mo-ditha" /></p>
