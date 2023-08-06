@@ -43,18 +43,11 @@
 <br><br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 	
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py)
 
 <br>
 <p>
 
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src=("https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
-/>
-</a>
-</p>
 <br><br>
 <h3>🧰 Frameworks and Libraries</h3>
 
