@@ -42,14 +42,18 @@
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <br><br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
+	
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,pug,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
 
 <br>
 <p>
 
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i="c,cs,cpp,html,css,js,php,java,py,nodejs/>
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i="c,cs,cpp,html,css,js,php,java,py,nodejs,![Uploading icons.svg…]()
+/>
+</a>
 </p>
 <br><br>
 <h3>🧰 Frameworks and Libraries</h3>
