@@ -44,18 +44,14 @@
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
-
 <br>
-
 <h3>🧰 Frameworks and Libraries</h3>
 
 ![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,ruby,spring,laravel,symfony,express,atom,nestjs,nextjs,hibernate)
 <br>
-
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
 ![My db](https://skillicons.dev/icons?i=azure,github,mongodb,mysql,gcp)
-
 <br>
 <h3>💻 Software and Tools</h3>
 
