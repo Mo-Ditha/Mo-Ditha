@@ -40,15 +40,13 @@
 
 <details>
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
-<br><br>
+<br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 	
 ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,java,py,nodejs)
 
 <br>
-<p>
 
-<br>
 <h3>🧰 Frameworks and Libraries</h3>
 
 ![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,ruby,spring,laravel,symfony,express,atom)
