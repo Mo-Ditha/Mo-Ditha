@@ -48,10 +48,10 @@
 <br>
 <p>
 
-<br><br>
+<br>
 <h3>🧰 Frameworks and Libraries</h3>
 
-![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,numpy,pandas,ruby,spring,laravel,symfony,)
+![My fr](https://skillicons.dev/icons?i=arduino,angular,react,reactivex,vite,vue,jquery,lua,django,flask,flutter,ruby,spring,laravel,symfony,express,atom)
 <br>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
