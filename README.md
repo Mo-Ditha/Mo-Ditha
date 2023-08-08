@@ -68,5 +68,8 @@
 
 <br>
 <h3>💻 GitHub Profile Stats</h3>
+
+<details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&show_icons=true&locale=en&layout=compact" alt="mo-ditha" /></p>
+</details>
 
