@@ -67,4 +67,6 @@
 [![An image of @moditha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moditha)](https://holopin.io/@moditha)
 
 <br>
+<h3>💻 GitHub Profile Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&show_icons=true&locale=en&layout=compact" alt="mo-ditha" /></p>
+
