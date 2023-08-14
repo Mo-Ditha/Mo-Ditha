@@ -67,6 +67,7 @@
 <br>
 <h3>💻 GitHub Profile Stats</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&show_icons=true&locale=en&layout=compact" alt="mo-ditha" /></p>
+[![Moditha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mo-ditha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mo-ditha/github-readme-stats#gh-dark-mode-only)
+
 
 
