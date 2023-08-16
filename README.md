@@ -57,6 +57,17 @@
 <br>
 </details>
 
+<details>
+
+<summary><h2>💻 GitHub Profile Stats</h2></summary>
+<br>
+
+![moditha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&theme=tokyonight&show_icons=true)
+
+
+<a href="https://github.com/mo-ditha/github-readme-stats"><img alt="Moditha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ditha&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
+</details>
 <br>
 
 ## Awards!!! 🥇
@@ -65,10 +76,10 @@
 [![An image of @moditha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moditha)](https://holopin.io/@moditha)
 
 <br>
-<h3>💻 GitHub Profile Stats</h3>
 
-<p>
-<a img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&show_icons=true&locale=en&layout=compact" alt="mo-ditha"></a></p>
+## Snake eating my contributions graph
+
+![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
 
 
 
