@@ -71,7 +71,6 @@
 <a href="https://github.com/Mo-Ditha/github-readme-stats"><img alt="Moditha Dissanayaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ditha&langs_count=20&count_private=true&layout=compact&hide_border=true&bg_color=000000" /></a>
 
 
-
 </details>
 <br>
 
