@@ -63,14 +63,14 @@
 <summary><h2>💻 GitHub Profile Stats</h2></summary>
 <br>
 
-![moditha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mo-ditha&theme=tokyonight&show_icons=true)
+![moditha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Ditha&theme=tokyonight&show_icons=true)
 
 
-<a href="https://github.com/mo-ditha/github-readme-stats"><img alt="Moditha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ditha&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/Mo-Ditha/github-readme-stats"><img alt="Moditha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ditha&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 ![Udara Ekanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraekanayake&theme=tokyonight&show_icons=true)
 
-  <a href="https://github.com/udaraekanayake/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/udaraekanayake/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 
 </details>
