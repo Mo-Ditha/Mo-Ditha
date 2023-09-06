@@ -5,7 +5,7 @@
 ![header_white_](https://github.com/Mo-Ditha/Mo-Ditha/assets/108186528/dbd518f6-b3c5-4e8f-ad42-281b819d9f22)
 
 <p align="center">
-<img src="https://github.com/Mo-Ditha/Mo-Ditha/assets/108186528/7b90bab2-96f1-4bca-bc65-10574804f661" />
+<img src="https://github.com/Mo-Ditha/Mo-Ditha/assets/108186528/dbd518f6-b3c5-4e8f-ad42-281b819d9f22" />
 <b>Leisurely exploring the software development world</b>
 </p>
 
