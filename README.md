@@ -68,6 +68,17 @@
 
   <a href="https://github.com/Mo-Ditha/github-readme-stats"><img alt="Moditha Dissanayaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ditha&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
+  
+## 📊 Github Stats and Activity
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/Mo-Ditha/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/Mo-Ditha/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Moditha's streak" src="https://streak-stats.demolab.com/?user=Mo-Ditha&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
 
 
 
